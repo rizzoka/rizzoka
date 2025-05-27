@@ -1,6 +1,6 @@
 ## 🐼Tudo Certinho? Me chamo Kauã!
 
-- 📚 Estudante de Engenharia de Software
+- 📚 Olá! Meu nome é Kauã Rizzo, sou estudante de Engenharia de Software da Universidade Católica de Salvador e apaixonado por tecnologia. Estou sempre em busca de aprendizados novos e experiências que me permitam crescer tento no meio profissional, quanto dentro da minha vida pessoal. Meu maior objetivo é contribuir de forma significativa em programa e adicionar um pedacinho de mim em cada projeto que eu me boto a desenvolver.😊
  
 <div> 
 <a href = "mailto:kauarizzo06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
