@@ -1,10 +1,11 @@
 ## 🐼Tudo Certinho? Me chamo Kauã!
 
 - 📚 Olá! Meu nome é Kauã Rizzo, sou estudante de Engenharia de Software da Universidade Católica de Salvador e apaixonado por tecnologia. Estou sempre em busca de aprendizados novos e experiências que me permitam crescer tento no meio profissional, quanto dentro da minha vida pessoal. Meu maior objetivo é contribuir de forma significativa em programa e adicionar um pedacinho de mim em cada projeto que eu me boto a desenvolver.😊
+- 📫 Entre em contato comigo! :
  
 <div> 
-<a href = "mailto:kauarizzo06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/kauã-rizzo-53166232a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:kauarizzo06@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kau%C3%A3-rizzo-53166232a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ---
