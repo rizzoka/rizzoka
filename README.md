@@ -1,4 +1,4 @@
-## 🐼Tudo Certinho? Me chamo Kauã!
+## 🐼Oioi! Me chamo Kauã!
 
 - 📚 Olá! Meu nome é Kauã Rizzo, sou estudante de Engenharia de Software da Universidade Católica de Salvador e apaixonado por tecnologia. Estou sempre em busca de aprendizados novos e experiências que me permitam crescer tento no meio profissional, quanto dentro da minha vida pessoal. Meu maior objetivo é contribuir de forma significativa em programa e adicionar um pedacinho de mim em cada projeto que eu me boto a desenvolver.😊
 - 📫 Entre em contato comigo! :
