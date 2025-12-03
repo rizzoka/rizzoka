@@ -9,7 +9,8 @@
 <a href="https://www.linkedin.com/in/kau%C3%A3-rizzo-53166232a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
----
+<br>
+<img src="https://github.com/bruniibs/bruniibs/assets/128152530/1d0c57b4-7e6e-4d25-b2fc-0cf3a8afae47"> <br>
 
 ### 👨🏻‍💻 Meu Stack
 #### Principais:
@@ -44,7 +45,9 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
----
+<br>
+<img src="https://github.com/bruniibs/bruniibs/assets/128152530/1d0c57b4-7e6e-4d25-b2fc-0cf3a8afae47"> <br>
+
 ### 👨🏻‍💻 Estatísticas
 <div>
   <p>
